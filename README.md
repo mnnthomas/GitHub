@@ -1,3 +1,3 @@
 # Works
 
-This repo has small projects and scripts that I developed/created at my spare time
+This repo has small projects and scripts that I worked on in my spare time
